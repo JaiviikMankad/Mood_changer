@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.title {
+  color: black;
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 40px;
+}
+
+.mood-btn {
+  border: none;
+  background: rgba(255, 255, 255, 0.2);
+  color: black;
+  padding: 12px 20px;
+  border-radius: 30px;
+  font-size: 1rem;
+  cursor: pointer;
+  backdrop-filter: blur(6px);
+  transition: transform 0.2s, background 0.3s;
+}
+
+.mood-btn:hover {
+  transform: scale(1.1);
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.message-box {
+  background: rgba(255, 255, 255, 0.25);
+  padding: 25px 40px;
+  border-radius: 20px;
+  color: black;
+  text-align: center;
+  backdrop-filter: blur(8px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.emoji-large {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
