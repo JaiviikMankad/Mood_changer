@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mood_changer/static/css/main.7564a9fe.css",
+    "main.js": "/Mood_changer/static/js/main.a6e638c8.js",
+    "static/js/453.919488fd.chunk.js": "/Mood_changer/static/js/453.919488fd.chunk.js",
+    "index.html": "/Mood_changer/index.html",
+    "main.7564a9fe.css.map": "/Mood_changer/static/css/main.7564a9fe.css.map",
+    "main.a6e638c8.js.map": "/Mood_changer/static/js/main.a6e638c8.js.map",
+    "453.919488fd.chunk.js.map": "/Mood_changer/static/js/453.919488fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7564a9fe.css",
+    "static/js/main.a6e638c8.js"
+  ]
+}
